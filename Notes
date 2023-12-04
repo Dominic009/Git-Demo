@@ -1,0 +1,57 @@
+<header
+      class="flex bg-[#1f1f1f] justify-between items-center px-[10px] fixed h-[40px] w-full z-50"
+    >
+      <div class="h-[40px] text-white text-xl flex items-center">LOGO</div>
+
+      <div class="flex justify-end items-center">
+        <ul
+          class="text-md font-semibold list-none flex gap-6 justify-center cursor-pointer text-white"
+        >
+          <li><a href="#">Menu</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Options</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <section>
+      <div
+        class="h-[250px] bg-blue-200 font-bold text-4xl flex items-center justify-center pl-[150px]"
+      >
+        Hero Section
+      </div>
+    </section>
+
+    <!-- side panel -->
+    <section>
+      <div class="fixed top-[40px] bottom-0 left-0 w-[150px] bg-blue-100 p-4">
+        Side panel
+      </div>
+    </section>
+
+    <section class="relative">
+      <div
+        class="content absolute ml-[150px] flex w-[1199px] h-[970px] flex-wrap gap-6 justify-between p-10"
+      >
+        <!-- <div><h1 class="">These are contents</h1></div> -->
+
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+        <div>9</div>
+        <div>10</div>
+        <div>11</div>
+        <div>12</div>
+        <div>13</div>
+        <div>14</div>
+        <div>15</div>
+        <div>16</div>
+      </div>
+    </section>

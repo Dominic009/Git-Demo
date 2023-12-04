@@ -1,3 +1,9 @@
+/* body{
+    margin: auto;
+}
+
+
+
 ul li:hover{
     color: aqua;
 
@@ -5,5 +11,10 @@ ul li:hover{
 
 ul li a:focus{
     border-bottom: solid 2px red;
-
 }
+
+.content div{
+    border: solid 1px red;
+    height: 190px;
+    width: 250px;
+} */
